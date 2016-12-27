@@ -8,7 +8,7 @@ function test()
 
 function myOtherFunction()
 {
-    return "coucou";
+    return "autre chose";
 }
 
 function maF()
