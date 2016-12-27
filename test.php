@@ -16,3 +16,8 @@ function maF()
 {
     return 20;
 }
+
+function soustraction($a, $b)
+{
+    return $a - $b;
+}
