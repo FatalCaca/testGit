@@ -16,3 +16,10 @@ function maF()
 {
     return 20;
 }
+
+function Add(){
+$a=10;
+$b=20;
+
+return $a+$b ;
+}
