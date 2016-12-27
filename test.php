@@ -3,6 +3,7 @@ echo "une deuxième ligne";
 
 function test()
 {
+    echo "test";
     return 5;
 }
 
