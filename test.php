@@ -1,3 +1,5 @@
+<?php
+
 echo "pouet + Autre modifs";
 echo "une deuxième ligne";
 
@@ -21,3 +23,5 @@ function soustraction($a, $b)
 {
     return $a - $b;
 }
+
+?>
