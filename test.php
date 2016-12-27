@@ -10,3 +10,8 @@ function myOtherFunction()
 {
     return "coucou";
 }
+
+function maF()
+{
+    return 20;
+}
