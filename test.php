@@ -23,3 +23,9 @@ $b=20;
 
 return $a+$b ;
 }
+
+function soustraction($a, $b)
+{
+    return $a - $b;
+}
+
