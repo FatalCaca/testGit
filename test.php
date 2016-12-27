@@ -5,3 +5,8 @@ function test()
 {
     return 10;
 }
+
+function myOtherFunction()
+{
+    return "coucou";
+}
