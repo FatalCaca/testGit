@@ -3,7 +3,7 @@ echo "une deuxième ligne";
 
 function test()
 {
-    return 10;
+    return 5;
 }
 
 function myOtherFunction()
